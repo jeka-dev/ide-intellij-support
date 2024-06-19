@@ -4,13 +4,13 @@
 
 This repository aims at providing support for [JeKa Intellij plugin](https://plugins.jetbrains.com/plugin/24505-jeka)
 
-Use it to create issues or start discutions.
+Use it to create issues or start discussions.
 
 ## How to
 
 ### Create a new Project
 
-This plugin provides a Project wizard. GO to `New Project...| Generators | JeKa`and create your project as usual.
+This plugin provides a Project wizard. Go to `New Project...| Generators | JeKa`and create your project as usual.
 
 > [!NOTE]
 > On some system (according 3rd-party plugins allready present), the IDE won't display the project structure after generation.
