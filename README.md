@@ -4,7 +4,7 @@
 
 This repository aims at providing support for [JeKa Intellij plugin](https://plugins.jetbrains.com/plugin/24505-jeka)
 
-Use it to create [issues](https://github.com/jeka-dev/ide-intellij-support/issues) or start discussions.
+Use it to create [issues](https://github.com/jeka-dev/ide-intellij-support/issues) or start [discussions](https://github.com/jeka-dev/ide-intellij-support/discussions).
 
 ## How to
 
