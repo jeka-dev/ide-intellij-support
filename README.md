@@ -1,4 +1,4 @@
-# ide-intellij-support
+# IntelliJ Plugin Support
 
 This repository aims at providing support for [JeKa Intellij plugin](https://plugins.jetbrains.com/plugin/24505-jeka)
 
